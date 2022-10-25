@@ -7,6 +7,6 @@ Here is the project proposal:
 
 Here is the project report:
 
-[Proposal](/clim680/Report.md)
+[Proposal](/clim680/report.md)
   
 
