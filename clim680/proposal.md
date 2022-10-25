@@ -33,7 +33,7 @@ SST from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
 Zebiak-Cane (ZC; Zebiak and Cane 1987)
 
-The ZC model is used to perform control and sensitivity experiments which will help to disentagle the ambiguity surrounding the relative importance of low-frequency and high-frequency wind forcing on El Niño development given the western Pacific is primed with positive ocean heat content anomlaies.
+The ZC model is used to perform control and sensitivity experiments which will help to disentagle the ambiguity surrounding the relative importance of low-frequency and high-frequency wind forcing on El Niño development.
 
 
 ## Proposed Analysis
