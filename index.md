@@ -1,7 +1,7 @@
 
 <html>
 	<head>
-		<title>Sridhar Mantripragada, PhD Student in Climate Dynamics</title>
+		Sridhar Mantripragada, PhD Student in Climate Dynamics
 				<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
