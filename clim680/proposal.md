@@ -18,29 +18,34 @@ I wanted to revist this topic and investigate the relative role of different fre
 The datasets used in my project are:
 
 __NOAA/OISST__
-The [NOAA/OISST](https://kpegion.github.io/COLA-DATASETS-CATALOG/sst.mnmean.nc) dataset is monthly, 
-global sea surface temperature data from Dec, 1981 to Apr, 2020. It has horizontal resoluiton of 1deg longitude by 1deg latitude.
+The [NOAA/OISST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) dataset is daily, 
+global sea surface temperature data from Jan, 1980 to Dec, 2016. It has horizontal resoluiton of 0.25deg longitude by 0.25deg latitude.
  
-__GPCP Precipitation__
-The [GPCP precipitation](https://kpegion.github.io/COLA-DATASETS-CATALOG/gpcp_precip.mon.mean.nc) is monthly global 
-precipitation from Jan 1979 to Apr 2020. It is on a 2.5 deg longitude by 2.5 deg latitude gride.
+__INCOIS/TropFlux/wind stress__
+The [TropFlux wind stress](https://kpegion.github.io/COLA-DATASETS-CATALOG/gpcp_precip.mon.mean.nc) is daily tropical 
+wind stress from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
-__GHCN_CAMS__
-The [GHCN_CAMS](https://kpegion.github.io/COLA-DATASETS-CATALOG/ghcn_cams) is a global, land-only, monthly temperature 
-datasets from Jan 1948 to Mar 2020.  It is on a 0.5 deg longitude by 0.5 deg latitude grid.
+__INCOIS/TropFlux/SST__
+The [TropFlux SST](https://kpegion.github.io/COLA-DATASETS-CATALOG/ghcn_cams) is daily tropical 
+SST from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
-__NAO Index__
-The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the monthly CPC index, provided by NOAA/ESRL/PSL. 
-It is located on the COLA servers in `/shared/ccsm4/kpegion/obs2/CLIM_INDICES/nao.data`. 
+## Model
+
+Zebiak-Cane (ZC; Zebiak and Cane 1987)
+
+The ZC model is used to perform control and sensitivity experiments which will help to disentagle the ambiguity surrounding the relative importance of low-frequency and high-frequency wind forcing on El Nino development given the western Pacific is primed with positive ocean heat content anomlaies.
+
 
 ## Proposed Analysis
 I plan to use the data sets above to conduct the following analysis:
-* Calculate annual mean, climatology and anomalies of SST, precipitation and temperature
-* Calculate the Niño3.4 index from the SST data
-* Calculate composites of climate variables based on ENSO phases
-* Calculate the mean difference between composites of El Niño and La Niña phases with significance
-* Calculate and compare composites with the NAO index
-* Calculate the regression of Nino3.4 with Temperature and Precipitation
+* Calculate climatology and anomalies of observed SST and wind stress
+* Perform forced and unforced ZC model runs.
+* Calculate the Niño3 and Niño3.4 index from the observed and simulated SST data
+* Calculate the power spectrum of wind stress and SST for equatorial Pacific.
+* Calculate the means of ensemble members simulated fields 
+* Calculate and compare composites of control and sensitivity experiements variables
+* Calculate the ensemble mean difference between the control and sensitivity experiements variables with significane
+* Calculate the regression of Nino3.4 with wind stress to linearly remove the contemporaneous impact of ENSO on wind stress
 
 ### Functions
 I will create a set of functions in `clim_utils.py` for doing common tasks used throughout my analysis, including:
