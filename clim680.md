@@ -1,3 +1,3 @@
-Here is my projeect proposal:
+Here is my project proposal:
 
 [CLIM680 Project Proposal](proposal.html)
