@@ -22,11 +22,11 @@ The [NOAA/OISST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst) d
 global sea surface temperature data from Jan, 1980 to Dec, 2016. It has horizontal resoluiton of 0.25deg longitude by 0.25deg latitude.
  
 __INCOIS/TropFlux/wind stress__
-The [TropFlux wind stress](https://kpegion.github.io/COLA-DATASETS-CATALOG/gpcp_precip.mon.mean.nc) is daily tropical 
+The [TropFlux wind stress](https://incois.gov.in/tropflux/) is daily tropical 
 wind stress from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
 __INCOIS/TropFlux/SST__
-The [TropFlux SST](https://kpegion.github.io/COLA-DATASETS-CATALOG/ghcn_cams) is daily tropical 
+The [TropFlux SST](https://incois.gov.in/tropflux/) is daily tropical 
 SST from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
 ## Model
