@@ -1,1 +1,1 @@
-Here is the proposal
+CLIM 680 Project
