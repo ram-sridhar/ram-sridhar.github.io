@@ -5,4 +5,4 @@ Here is the project proposal:
 
 Here is the project report:
 
-<li><a href="/clim680/report.md">reportl</a></li>
+<li><a href="/clim680/report.md">Report</a></li>
