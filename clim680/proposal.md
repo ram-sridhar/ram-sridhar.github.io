@@ -5,11 +5,11 @@
 
 ## Introduction
 
-My CLIM 680 project investigates the relative role of high-frequency and low-frequency wind forcing on El Niño development. The precursor and trigger for the El Niño growth are anomalous positive ocean heat content and wind forcing over the western Pacific, respectively. The wind forcing has broad frequency range spread over low-frequencies (> 90-day) and high-frequencies (< 90-day). 
+My CLIM 680 project investigates the relative role of high-frequency and low-frequency wind forcing on El Niño development. The mechanims behind the ENSO growth has been widely explored and written about in the scientific literature. The precursor and trigger for the El Niño growth are anomalous positive ocean heat content and wind forcing over the western Pacific, respectively. 
 
-The mechanims behind the ENSO growth has been widely explored and written about in the scientific literature. However, there is a debate on whether it is the low-frequency (> 90-day) not related to ENSO or high-frequency (< 90-day) wind forcing that triggers the Bjerkness feedback and thus El Niño growth. 
+The wind forcing has broad frequency range spread over low-frequencies (> 90-day) and high-frequencies (< 90-day). However, there is a debate on whether it is the low-frequency (> 90-day) not related to ENSO or high-frequency (< 90-day) wind forcing that triggers the Bjerkness feedback and thus El Niño growth. 
 
-I wanted to revist this topic and investigate the relative role of different frequency band wind forcing on El Nino growth using the intermediate complex coupled model -  Zebiak and Cane (ZC). 
+I wanted to revist this topic and investigate the relative role of different frequency band wind forcing on El Niño growth using the intermediate complex coupled model -  Zebiak and Cane (ZC). 
 
 
 
@@ -33,7 +33,7 @@ SST from Jan 1980 to Dec 2016. It is on a 1deg longitude by 1deg latitude grid.
 
 Zebiak-Cane (ZC; Zebiak and Cane 1987)
 
-The ZC model is used to perform control and sensitivity experiments which will help to disentagle the ambiguity surrounding the relative importance of low-frequency and high-frequency wind forcing on El Nino development given the western Pacific is primed with positive ocean heat content anomlaies.
+The ZC model is used to perform control and sensitivity experiments which will help to disentagle the ambiguity surrounding the relative importance of low-frequency and high-frequency wind forcing on El Niño development given the western Pacific is primed with positive ocean heat content anomlaies.
 
 
 ## Proposed Analysis
