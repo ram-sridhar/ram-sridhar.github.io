@@ -5,7 +5,7 @@
 
 ## Introduction
 
-My CLIM 680 project investigates the relative role of high-frequency and low-frequency wind forcing on El Niño development. The mechanims behind the ENSO growth has been widely explored and written about in the scientific literature. The precursor and trigger for the El Niño growth are anomalous positive ocean heat content and wind forcing over the western Pacific, respectively. 
+My CLIM 680 project investigates the relative role of high-frequency and low-frequency wind forcing on El Niño development. The mechanims behind the ENSO growth has been widely explored and written about in the scientific literature. The precursor and trigger for the El Niño growth are anomalous positive ocean heat content and westerly wind forcing over the western Pacific, respectively. 
 
 The wind forcing has broad frequency range spread over low-frequencies (> 90-day) and high-frequencies (< 90-day). However, there is a debate on whether it is the low-frequency (> 90-day) not related to ENSO or high-frequency (< 90-day) wind forcing that triggers the Bjerkness feedback and thus El Niño growth. 
 
