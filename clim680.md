@@ -1,3 +1,3 @@
 Here is my projeect proposal:
 
-proposal.html
+[CLIM680 Project Proposal](proposal.html)
