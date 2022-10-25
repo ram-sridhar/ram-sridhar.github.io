@@ -1,4 +1,4 @@
-# The relative role of high-frequency and low-frequency wind forcing on El Ni$\tilden$o development
+# The relative role of high-frequency and low-frequency wind forcing on El Ni$\tilde{n}$o development
  
 ### Sridhar Mantripragada
 #### CLIM 680 - Fall 2022
