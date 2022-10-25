@@ -1,14 +1,17 @@
-The relative role of high-frequency and low-frequency wind forcing on El Ni$~{n}$o development
+# The relative role of high-frequency and low-frequency wind forcing on El Niño development
  
 ### Sridhar Mantripragada
 #### CLIM 680 - Fall 2022
 
 ## Introduction
 
-My CLIM 680 project investigates the relationship between the El Nino Southern Oscillation and temperature and precipitation.  
-I choose this topic because there is no consensusit has been widely explored and written about in the scientific literature, 
-but I wanted to see these relationships for myself.  
-I also explored the relationship between temperature and precipitation with another climate index, the NAO, for comparison.
+My CLIM 680 project investigates the relative role of high-frequency and low-frequency wind forcing on El Niño development. The precursor and trigger for the El Niño growth are anomalous positive ocean heat content and wind forcing over the western Pacific, respectively. The wind forcing has broad frequency range spread over low-frequencies (> 90-day) and high-frequencies (< 90-day). 
+
+The mechanims behind the ENSO growth has been widely explored and written about in the scientific literature. However, there is a debate on whether it is the low-frequency (> 90-day) not related to ENSO or high-frequency (< 90-day) wind forcing that triggers the Bjerkness feedback and thus El Niño growth. 
+
+I wanted to revist this topic and investigate the relative role of different frequency band wind forcing on El Nino growth using the intermediate complex coupled model -  Zebiak and Cane (ZC). 
+
+
 
 ## Data
 
