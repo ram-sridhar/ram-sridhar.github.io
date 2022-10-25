@@ -11,7 +11,7 @@
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
-        		<li><a href="/clim680">CLIM680</a></li>
+        		<li><a href="/clim680/clim680.md">CLIM680</a></li>
     		</ul>
 		</nav>
 		<div class="container">
