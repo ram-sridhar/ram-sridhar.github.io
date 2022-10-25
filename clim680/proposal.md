@@ -42,8 +42,8 @@ I plan to use the data sets above to conduct the following analysis:
 * Perform forced and unforced ZC model runs.
 * Calculate the Niño3 and Niño3.4 index from the observed and simulated SST data
 * Calculate the power spectrum of wind stress and SST for equatorial Pacific.
-* Calculate the means of ensemble members simulated fields 
-* Calculate and compare composites of control and sensitivity experiements variables
+* Calculate the ensemble statistics of simulated fields 
+* Calculate and compare composites of variables obtained from control and sensitivity experiements
 * Calculate the ensemble mean difference between the control and sensitivity experiements variables with significane
 * Calculate the regression of Nino3.4 with wind stress to linearly remove the contemporaneous impact of ENSO on wind stress
 
